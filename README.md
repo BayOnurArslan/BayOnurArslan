@@ -1,4 +1,4 @@
-# Hello and Welcome to My Github Page, I'm Onur ARSLAN
+# Welcome to My Github Page, I'm Onur ARSLAN
 I am a junior developer who is passionate about creating innovative projects and contributing to the open-source community.
 
 I am currently working as a freelance web developer specialising in the creation of personal websites for clients.
